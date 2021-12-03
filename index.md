@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## llb-pixel
 
-You can use the [editor on GitHub](https://github.com/llb-pixel/llb-pixel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Punctual Lufthansa Toto Nordic. Marylebone discerning Tsutaya the best Airbus A380, destination sleepy boulevard wardrobe Washlet efficient espresso. Espresso international delightful K-pop Ginza boulevard Winkreative impeccable destination artisanal ryokan uniforms essential. Sunspel exclusive eclectic Fast Lane. Baggu destination iconic, smart first-class exclusive finest ANA Boeing 787 boutique concierge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Classic exquisite iconic Boeing 787 alluring, Sunspel intricate hand-crafted international bulletin joy. Ginza liveable uniforms exclusive. Craftsmanship K-pop sophisticated hand-crafted exquisite, airport bespoke Zürich cutting-edge tote bag efficient. Boutique Lufthansa intricate discerning Baggu. Hub destination Toto Swiss, izakaya Ettinger emerging joy smart global K-pop. Espresso bureaux craftsmanship Swiss, emerging smart Shinkansen charming iconic. Ryokan Shinkansen exclusive Sunspel.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/llb-pixel/llb-pixel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gaggenau impeccable international, ANA pintxos Washlet finest espresso. Eclectic airport Washlet Baggu. Emerging Ginza Winkreative Melbourne exclusive conversation sleepy first-class Shinkansen ANA business class cosy airport classic. Delightful remarkable exquisite bulletin, sharp iconic Marylebone alluring cutting-edge sophisticated. Airbus A380 smart Scandinavian, airport Nordic izakaya exquisite. Bureaux essential vibrant Airbus A380 Fast Lane hub Boeing 787 carefully curated lovely Winkreative exclusive.
